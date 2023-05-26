@@ -1,5 +1,7 @@
 # Telco Customer Churn Analysis
 
+![](Churn_overview.png)
+
 ## Introduction
 This is a Power BI projects on **Telco Customer Churn Analysis** of a dummy dataset. The project is to analyze and derive insights to answer crucial questions to help in knowing why customers churn and make data driven decisions.
 
