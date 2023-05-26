@@ -7,13 +7,30 @@ This is a Power BI projects on **Telco Customer Churn Analysis** of a dummy data
 
 
 
-Disclaimer : All datasets and reports do not represent any 
+_Disclaimer : All datasets and reports do not represent any 
 company, institution or country, but just a dummy dataset to 
-demonstrate capabilities with Power Bi.
+demonstrate capabilities with Power Bi._
 
-Problem Statmement
-1.  Which warehosue has the highest impact on income in the 
-    current year?
-2   What is the worth in dollars of the total products available??
-3   What is the average cost per product?
+##Problem Statmement
+1.  Investigating Churn reasons and churn categories
+2   Investigating churn patterns by analyzing demographics, contract types    and payment method.
+3   Investigating churn score
+
+
+##Skills/ Concepts demonstrated:
+The following Power BI features were incorporated:
+* DAX
+* Measures
+* Power Query
+* Tooltips
+
+
+
+
+
+
+
+
+
+
 
