@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-![](telco.jpg)
+![](telco1.jpg)
 
 ## Introduction
 This is a Power BI projects on **Telco Customer Churn Analysis** of a dummy dataset.In this documentation, we will explore a telco churn analysis, aiming to know why customer churn in a telecommunications company. By identifying customers who are likely to churn, the company can take proactive measures to retain them and improve customer satisfaction. The analysis will involve various stages, including data sourcing, data transformation, modeling, analysis and visualizations, and concluding with 
@@ -56,6 +56,13 @@ You can interact with the report [here](https://app.powerbi.com/links/mAlNMsGhlq
 
 
 
+![](Churn_overview.png)
+
+---
+
+### Features :
+
+* The seven tabs are buttons with hovering effect and each navigates to the page with similar name.
 
 
 
