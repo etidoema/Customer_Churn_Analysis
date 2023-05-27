@@ -52,6 +52,8 @@ The report comprises of 7 pages:
  7. Multiple Fields
 
 
+You can interact with the report [here](https://app.powerbi.com/links/mAlNMsGhlq?ctid=e1e4f47f-4370-4de4-8a71-48984d434887&pbi_source=linkShare&bookmarkGuid=418d829d-33c9-4dc4-8a7b-b8ba2e3baa89)
+
 
 
 
