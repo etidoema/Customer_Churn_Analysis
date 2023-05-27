@@ -39,6 +39,18 @@ The following Power BI features were incorporated:
 No modelling was needed for the dataset
 
 
+## Visualization
+
+The report comprises of 7 pages:
+ 
+ 1. Overview
+ 2. Churn Reasons
+ 3. Churn City
+ 4. Churn Score
+ 5. Tenure Months By contracts
+ 6. Demographics
+ 7. Multiple Fields
+
 
 
 
