@@ -106,13 +106,16 @@ Through this we can analyse customers that are likely to churn and provide a sol
 ## Churn City
 
 
-Adjusted model      			auto model
-:-------------------: | :-------------------:
-![](Churn_City.png)   |      ![](Churn_City_Table_1.png)
-[table of images]
+| Churn City Table            | Churn City Map           |
+| --------------------------- | ------------------------ |
+|  ![](Churn_City_Table_1.png)|![](Churn_City.png)       |
 
 
+There are churn rate of 100% in Ten different cities, but those churn rate have 4 customers and 4 churned customers. This might indicating less populous, but if we look at the big cities by filtering the table by number of churned customers instead of churn rate, we will start seeing numbers. 
 
+| Churn City Table            | Churn City Map            |
+| --------------------------- | ------------------------  |
+|  ![](Churn_City_Table_2.png)| ![](Churn_City2.png)      |
 
 
 
