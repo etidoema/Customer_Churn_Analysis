@@ -8,7 +8,7 @@ recommendations.
 
 
 
-_Disclaimer : All datasets and reports do not represent any 
+>_Disclaimer : All datasets and reports do not represent any 
 company, institution or country, but just a dummy dataset to 
 demonstrate capabilities with Power Bi._
 
@@ -105,8 +105,11 @@ Through this we can analyse customers that are likely to churn and provide a sol
 
 ## Churn City
 
-![](Churn_City.png)
 
+Adjusted model      			auto model
+:-------------------: | :-------------------:
+![](Churn_City.png)   |      ![](Churn_City_Table_1.png)
+[table of images]
 
 
 
