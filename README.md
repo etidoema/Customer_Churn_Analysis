@@ -65,6 +65,51 @@ You can interact with the report [here](https://app.powerbi.com/links/mAlNMsGhlq
 * The seven tabs are buttons with hovering effect and each navigates to the page with similar name.
 
 
+## Analysis :
+---
+## Customer History :
+
+The store currently have a total of 7043 customers. 1869 churned customers and the churn rate.
+---
+## Customer Reasons :
+
+![](Churn_Reasons.png)
+
+The highest churn reason is; "attitude of support persons", with 10.27% attrition rate followed by; "competitor offered higher download speeds".The reason for this analysis, is simply because , the best way to know how to stop churning, is to actually know the reasons for the attrition. If we dig deeper by categorising these reasons we will further get more insights concerning the reasons.
+Now lets look at the categorised pie chart for churn category.
+---
+## Churn Category :
+
+
+![](Churn_category.png)
+
+The competitor category for churn reasons has highest churn rate which is 33.23%, meaning 33.23% churn rate of customers are related to what the competitor offers, seconded by dissatisfaction of the telco services which is 24.88%.
+Now we know where to look and focus efforts on.
+
+---
+
+
+## Churn Score
+
+![](Churn_Score.png)
+
+
+### Churn Score:
+This is a value from 0-100 that is calculated using the predictive tool IBM SPSS Modeler. The model incorporates multiple factors known to cause churn.The higher the score, the more likely the customer will churn.
+
+According to the line chart analysis, customers started churning when the churn score was 65, also we can see from the line chart at churn score 67, number of customers are
+143 and number of churned customers are 55. 
+
+Through this we can analyse customers that are likely to churn and provide a solution that will stop the potential attrition.
+
+
+## Churn City
+
+![](Churn_City.png)
+
+
+
+
 
 
 
