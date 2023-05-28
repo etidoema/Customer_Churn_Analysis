@@ -124,4 +124,4 @@ We can now see that Los Angeles has the highest number of churned customers, wit
 
 ## Tenure Months by Contract
 
- ![](Churn_City_Table_2.png)
+ ![](Tenure_months_and_contracts.png)
