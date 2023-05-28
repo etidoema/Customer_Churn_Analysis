@@ -75,7 +75,8 @@ The store currently have a total of 7043 customers. 1869 churned customers and t
 
 ![](Churn_Reasons.png)
 
-The highest churn reason is; "attitude of support persons", with 10.27% attrition rate followed by; "competitor offered higher download speeds".The reason for this analysis, is simply because , the best way to know how to stop churning, is to actually know the reasons for the attrition. If we dig deeper by categorising these reasons we will further get more insights concerning the reasons.
+ The highest churn reason is; "attitude of support persons", with 10.27% attrition rate followed by; "competitor offered higher download speeds".The reason for this analysis, is simply because , the best way to know how to stop churning, is to actually know the reasons for the attrition. If we dig deeper by categorising these reasons we will further get more insights concerning the reasons.
+
 Now lets look at the categorised pie chart for churn category.
 ---
 ## Churn Category :
@@ -118,5 +119,9 @@ There are churn rate of 100% in Ten different cities, but those churn rate have 
 |  ![](Churn_City_Table_2.png)| ![](Churn_City2.png)      |
 
 
+We can now see that Los Angeles has the highest number of churned customers, with 90 churned customers out of 305 customers, which also the highest number of customers per city. 
 
 
+## Tenure Months by Contract
+
+ ![](Churn_City_Table_2.png)
